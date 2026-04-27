@@ -1,3 +1,7 @@
+# 🏆 3월 우수스터디 선정 🏆
+<img width="1120" height="1323" alt="3월 SSAFY스터디 결과 안내" src="https://github.com/user-attachments/assets/a23b44e7-b889-4737-83d1-ea466ae38def" />
+
+
 # 📅오프라인 모임 진행안
 SSAFY 15기 6반 알고리즘 스터디 운영 안내
 
