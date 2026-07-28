@@ -1,6 +1,7 @@
-# 🏆 3, 4월 우수스터디 선정 🏆
+# 🏆 3, 4, 5월 우수스터디 선정 🏆
 <img width="1120" height="1323" alt="3월 SSAFY스터디 결과 안내" src="https://github.com/user-attachments/assets/8e6cb2c6-9b07-49a3-8183-c7555ee4eb2f" />
 <img width="1120" height="1247" alt="4월 SSAFY스터디 결과 안내" src="https://github.com/user-attachments/assets/584f8849-56f4-4486-b8d9-284c5d5e874f" />
+<img width="1120" height="1247" alt="5월 SSAFY스터디 결과안내" src="https://github.com/user-attachments/assets/e5bdb11f-ec7d-49fa-b775-de30960263d3" />
 
 
 
